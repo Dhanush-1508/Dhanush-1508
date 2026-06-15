@@ -13,7 +13,7 @@ about learning new technologies and improving **full stack development skills**.
 <img src="https://skillicons.dev/icons?i=python,django,html,css,js,mysql,git,github,vscode" />
 </p>
 
-###🔧 Skills & Interests
+#### 🔧 Skills & Interests
 
 - 💻 Full Stack Development
 - 🐍 Python & Django
