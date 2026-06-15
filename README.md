@@ -12,17 +12,6 @@
 <img src="https://skillicons.dev/icons?i=python,django,html,css,js,mysql,git,github,vscode" />
 </p>
 
-### 📌 Projects
-
-#### HireHub Job Portal
-- Job posting and application management
-- Resume upload system
-- Recruiter and candidate dashboards
-- Built using Django and SQLite
-
-#### Company Website
-- Responsive multi-page website
-- HTML, CSS and JavaScript
 
 ### 📊 GitHub Stats
 
@@ -30,6 +19,22 @@
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=Dhanush-1508)
 
-### 📫 Connect With Me
+## 🌐 Connect With Me
 
-- GitHub: github.com/Dhanush-1508
+<p>
+  <a href="https://www.linkedin.com/in/dhanush-v-93542b3b0/">
+    <img src="https://img.shields.io/badge/LinkedIn-Professional-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  
+  <a href="mailto:dhanushvenkat2003@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-Contact-red?style=for-the-badge&logo=gmail" />
+  </a>
+
+  <a href="https://www.instagram.com/dhanush_venkat__">
+    <img src="https://img.shields.io/badge/Instagram-sparky.fpv-pink?style=for-the-badge&logo=instagram" />
+  </a>
+</p>
+
+---
+
+📍 Chennai, India
