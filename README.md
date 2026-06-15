@@ -15,16 +15,14 @@ about learning new technologies and improving **full stack development skills**.
 
 ##🔧 Skills & Interests
 
--💻 Full Stack Development
--🐍 Python & Django
--⚛️ React.js Development
--🌐 Frontend Development
--🗄️ Database Management (MySQL)
--🤖 AI Integration & Automation
--📄 ATS Resume Analysis
--☁️ Web Application Deployment
---
-
+- 💻 Full Stack Development
+- 🐍 Python & Django
+- ⚛️ React.js Development
+- 🌐 Frontend Development
+- 🗄️ Database Management (MySQL)
+- 🤖 AI Integration & Automation
+- 📄 ATS Resume Analysis
+- ☁️ Web Application Deployment
 
 
 ### 📊 GitHub Stats
