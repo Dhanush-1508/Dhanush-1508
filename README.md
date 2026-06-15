@@ -37,7 +37,7 @@ about learning new technologies and improving **full stack development skills**.
   </a>
 
   <a href="https://www.instagram.com/dhanush_venkat__">
-    <img src="https://img.shields.io/badge/Instagram-sparky.fpv-pink?style=for-the-badge&logo=instagram" />
+    <img src="https://img.shields.io/badge/Instagram-dhanush_venkat__-pink?style=for-the-badge&logo=instagram" />
   </a>
 </p>
 
