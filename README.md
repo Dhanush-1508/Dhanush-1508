@@ -44,4 +44,5 @@ about learning new technologies and improving **full stack development skills**.
 ---
 
 📍 Chennai, India
+
 🔥 Code is my craft, innovation is my passion.
