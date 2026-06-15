@@ -1,6 +1,6 @@
 # Hi there, I'm Dhanush 
 
-<h2> **Full Stack Developer (Python)** </h2>
+<h2> Full Stack Developer (Python) </h2>
 
 **Aspiring Full Stack Developer** with knowledge of **HTML, CSS, JavaScript, Bootstrap, React.js, Python, and
 Django**. Able to build **responsive and user-friendly** web applications with clean and efficient code. Passionate
