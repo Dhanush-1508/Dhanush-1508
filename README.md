@@ -13,6 +13,19 @@ about learning new technologies and improving **full stack development skills**.
 <img src="https://skillicons.dev/icons?i=python,django,html,css,js,mysql,git,github,vscode" />
 </p>
 
+###🔧 Skills & Interests
+
+###💻 Full Stack Development
+###🐍 Python & Django
+###⚛️ React.js Development
+###🌐 Frontend Development
+###🗄️ Database Management (MySQL)
+###🤖 AI Integration & Automation
+###📄 ATS Resume Analysis
+###☁️ Web Application Deployment
+
+
+
 
 ### 📊 GitHub Stats
 
@@ -20,16 +33,6 @@ about learning new technologies and improving **full stack development skills**.
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=Dhanush-1508)
 
-🔧 Skills & Interests
-
-💻 Full Stack Development
-🐍 Python & Django
-⚛️ React.js Development
-🌐 Frontend Development
-🗄️ Database Management (MySQL)
-🤖 AI Integration & Automation
-📄 ATS Resume Analysis
-☁️ Web Application Deployment
 
 ## 🌐 Connect With Me
 
