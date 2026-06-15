@@ -1,16 +1,35 @@
-## Hi there 👋
+# Hi there, I'm Dhanush 👋
 
-<!--
-**Dhanush-1508/Dhanush-1508** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Python Full Stack Developer
 
-Here are some ideas to get you started:
+💻 Passionate about Web Development using Python and Django
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Currently building real-world projects and improving my development skills.
+
+### 🛠️ Tech Stack
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,django,html,css,js,mysql,git,github,vscode" />
+</p>
+
+### 📌 Projects
+
+#### HireHub Job Portal
+- Job posting and application management
+- Resume upload system
+- Recruiter and candidate dashboards
+- Built using Django and SQLite
+
+#### Company Website
+- Responsive multi-page website
+- HTML, CSS and JavaScript
+
+### 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dhanush-1508&show_icons=true)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Dhanush-1508)
+
+### 📫 Connect With Me
+
+- GitHub: github.com/Dhanush-1508
