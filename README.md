@@ -7,7 +7,7 @@ Django**. Able to build **responsive and user-friendly** web applications with c
 about learning new technologies and improving **full stack development skills**.
 
 
-### 🛠️ Tech Stack
+<h3>🛠️ Tech Stack </h3> 
 
 <p>
 <img src="https://skillicons.dev/icons?i=python,django,html,css,js,mysql,git,github,vscode" />
