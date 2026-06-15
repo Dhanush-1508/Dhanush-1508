@@ -25,13 +25,6 @@ about learning new technologies and improving **full stack development skills**.
 - ☁️ Web Application Deployment
 
 
-# <h3> 📊 GitHub Stats </h3>
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dhanush-1508&show_icons=true)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=Dhanush-1508)
-
-
 # <h3> 🌐 Connect With Me <h3>
 
 <p>
