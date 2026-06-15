@@ -1,8 +1,10 @@
-# Hi there, I'm Dhanush 👋
+# Hi there, I'm Dhanush 
 
-Full Stack Developer (Python)
+**Full Stack Developer (Python)**
 
-I'm an aspiring Full Stack Developer passionate about building modern web applications using Python, Django, JavaScript, React.js, and MySQL. Currently pursuing an MCA at Vels Institute of Science, Technology and Advanced Studies, Chennai. I enjoy creating real-world projects that solve practical problems and continuously improving my development skills.
+**Aspiring Full Stack Developer** with knowledge of **HTML, CSS, JavaScript, Bootstrap, React.js, Python, and
+Django**. Able to build **responsive and user-friendly** web applications with clean and efficient code. Passionate
+about learning new technologies and improving **full stack development skills**.
 
 
 ### 🛠️ Tech Stack
