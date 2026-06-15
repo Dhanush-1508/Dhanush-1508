@@ -7,13 +7,13 @@ Django**. Able to build **responsive and user-friendly** web applications with c
 about learning new technologies and improving **full stack development skills**.
 
 
-<h3>🛠️ Tech Stack </h3> 
+# <h3> 🛠️ Tech Stack </h3> 
 
 <p>
 <img src="https://skillicons.dev/icons?i=python,django,html,css,js,mysql,git,github,vscode" />
 </p>
 
-#### 🔧 Skills & Interests
+# <h3> 🔧 Skills & Interests </h3>
 
 - 💻 Full Stack Development
 - 🐍 Python & Django
@@ -25,14 +25,14 @@ about learning new technologies and improving **full stack development skills**.
 - ☁️ Web Application Deployment
 
 
-### 📊 GitHub Stats
+# <h3> 📊 GitHub Stats </h3>
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dhanush-1508&show_icons=true)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=Dhanush-1508)
 
 
-## 🌐 Connect With Me
+# <h3> 🌐 Connect With Me <h3>
 
 <p>
   <a href="https://www.linkedin.com/in/dhanush-v-93542b3b0/">
